@@ -1,0 +1,6 @@
+{
+  "name": "POP FLM Location Manager",
+  "description": "Aplicación responsive profesional para la gestión de ubicaciones POP FLM con carga de Excel, filtros avanzados, analíticas y gestión completa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
